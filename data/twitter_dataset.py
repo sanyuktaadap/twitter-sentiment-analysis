@@ -46,7 +46,7 @@ if __name__ == '__main__':
             # 'replacement', 
             # 'knee'
         ],
-        help="Count of tweets per keyword")
+        help="List of keywords")
     parser.add_argument(
         "-c",
         "--count", 
