@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis
+# Retriving TKA related Tweets for Sentiment Analysis
 Analyzing sentiments of tweets related to TKA
 
 ## Twitter Dataset Script
